@@ -1,74 +1,52 @@
-# Module 1 Final Project
+# Data Science, Module 1
+## Final Project Submission
 
-## Introduction
+* Student name: **William Dougherty**
+* Student pace: **self paced**
+* Scheduled project review date/time: **Friday April 16, 11:00 AM**
+* Instructor name: **Jeff Herman**
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1.
+## Overview
 
-## Objectives
+In this project, I will be exploring data on movies from various sources in order to answer the overall question:
 
-You will be able to:
+"What type of films are currently doing the best at the box office?"
 
-* Describe all required aspects of the final project for Module 1
-* Describe all required deliverables
-* Describe what constitutes a successful project
-* Describe what the experience of the project review should be like
+This is in the context of a hypothetical situation in which I am making recommendations to a large company that is looking to enter the film-making business (i.e. Microsoft) as to what parameters should guide their film development process.
 
-## Final Project Summary
-
-You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-1-project-v2-1/master/awesome.gif)
-
-All that remains in Module 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "level up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
-
-## The Project
+The prompt given by Flatiron is as follows:
 
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
 Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
 
-# The Dataset
+## Contents
 
-You may scrape or make API calls to get additional data, but included in the repository (in the folder `zippedData`) is some movie-related data from:
-* Box Office Mojo
-* IMDB
-* Rotten Tomatoes
-* TheMovieDB.org
+### 1. Notebook - student.ipynb
 
-# The Deliverables
+This is the main file with all code, visualizations, and explanations.
 
-For online students, there will be five deliverables for this project (Note: On-campus students may have different requirements, please speak with your instructor):
+Overall, I am attempting to examine how two main aspects - production budget, and genre - influence the profitability of a film. I do so by using a few different datasets, as well as a small amount of data requested from an API, to analyze these parameters. I utilized Pandas to organize and manipulate the data, and Matplotlib and Seaborn to visualize the findings.
 
-1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
-2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
-3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
-4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)**
-5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
+#### Contents
 
-Note: On-campus students may have different requirements, please speak with your instructor.
+- I. Initial exploration
+- II. 1st Question
+- III. 2nd Question
+- IV. 3rd Question
+- V. 4th Question
+- VI. Overall Conclusions
 
-### Jupyter Notebook Must-Haves
+### 2. Presentation Slides - presentation.pdf
 
-For this project, your Jupyter Notebook should meet the following specifications:
+This is a non-technical presentation of the goals, questions, and findings of my notebook above.
 
-#### Organization/Code Cleanliness
+### 3. Blog Post and Video Walkthrough
 
-* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
-    * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
-* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
+The blog post and video walkthrough are linked here:
 
-#### Visualizations & EDA
+[BLog Post](http://)
 
-* Your project contains at least 4 meaningful data visualizations, with corresponding interpretations. All visualizations are well labeled with axes labels, a title, and a legend (when appropriate)  
-* You pose at least 3 meaningful questions and answer them through EDA.  These questions should be well labeled and easy to identify inside the notebook.
-    * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
-* Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
-
-
-### Non-Technical Presentation Must-Haves
-
-Another deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to make decisions for creating movies.
-
-Your presentation should:
+[Video Walkthrough](http://)
 
 * Contain between 5 - 10 professional-quality slides.  
     * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
