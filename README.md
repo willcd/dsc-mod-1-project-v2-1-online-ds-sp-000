@@ -96,6 +96,6 @@ This is a non-technical presentation of the goals, questions, and findings of my
 
 The blog post and video walkthrough are linked here:
 
-[BLog Post](https://willcd.medium.com/data-science-for-the-silver-screen-2fd4a604de5d)
+[Blog Post](https://willcd.medium.com/data-science-for-the-silver-screen-2fd4a604de5d)
 
 [Video Walkthrough](http://)
