@@ -29,7 +29,7 @@ Overall, I am attempting to examine how two main aspects - production budget, an
 ### A. Initial exploration
 Here, I import and organize the datasets, and do some initial analysis; I calculate basic budget/revenue figures, like ROI and net revenue.
 ### B. 1st Question
-"What are the distributions of ROI (budget/revenue), for domestic and worldwide contexts?"
+"What are the distributions of ROI (revenue/budget), for domestic and worldwide contexts?"
 
 I organized recent films (2000-2020) into four budget categories, 0-5 / 5-20 / 20-50 / 50+ million dollars. I used the ROI data from the initial exploration to create a boxplot of these categories, and created separate versions for the worldwide and domestic ROI contexts. As well, I included a horizontal 'break-even' line to show the 1.0 ROI point, above which films turn a profit.
 ![Figure 1](Figure_1.png)
