@@ -44,6 +44,7 @@ Here, I look at the four categories from Question 1 over time, in both Worldwide
 ![Figure 2](Figure_2.png)
 Just because it's so pretty, here's a zoomed-in look at films with ROI < 15:
 ![Figure 2x](Figure_2x.png)
+
 And here, we see the Mean ROI and Mean Net Revenue as a grid of line plots (a Seaborn relplot), with a shaded area that denotes the 95% confidence interval. Again, a break-even line is shown. 
 ![Figure 3](Figure_3.png)
 ![Figure 4](Figure_4.png)
