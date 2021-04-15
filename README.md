@@ -42,6 +42,8 @@ As well, films of $5,000,000 budget and higher should be prioritized; and the mo
 
 Here, I look at the four categories from Question 1 over time, in both Worldwide ROI and Net Revenue. In order to remove extreme outliers, I looked at the distribution of ROI's, and determined that anything above 10.0 is an extreme outlier, as shown below. There are films of 200/300/450 million, but so few that they don't appear on this histogram.
 ![Figure 2](Figure_2.png)
+Just because it's so pretty, here's a zoomed-in look at films with ROI < 15:
+![Figure 2x](Figure_2x.png)
 And here, we see the Mean ROI and Mean Net Revenue as a grid of line plots (a Seaborn relplot), with a shaded area that denotes the 95% confidence interval. Again, a break-even line is shown. 
 ![Figure 3](Figure_3.png)
 ![Figure 4](Figure_4.png)
