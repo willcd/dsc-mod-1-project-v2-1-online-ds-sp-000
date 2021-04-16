@@ -101,4 +101,4 @@ The blog post and video walkthrough are linked here:
 
 [Blog Post](https://willcd.medium.com/data-science-for-the-silver-screen-2fd4a604de5d)
 
-[Video Walkthrough](http://)
+[Video Walkthrough](https://youtu.be/N8jtt0MG_aE)
